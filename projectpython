@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="UTF-8">
+    <title>Genius Website</title>
+</head>
+<body>
+<div><h1>Genius Store</h1></div>
+<ul type ="a">
+    <li>home</li>
+    <li>shop</li>
+    <li>contact us</li>
+</ul>
+<div><h2>Shop BY: </h2></div>
+<h3>Catagory</h3>
+<hr>
+<ul>
+    <li>All Items</li>
+    <li>Camares</li>
+    <li>laptops</li>
+    <li>phones</li>
+    <li>Accessories</li>
+    <li>others</li>
+</ul>
+
+<hr>
+<ul>
+    <li>1-499</li>
+    <li>500-999</li>
+    <li>1000-1999</li>
+    <li>2000-4999</li>
+    <li>5000-9999</li>
+</ul>
+</div>
+
+<div> <h2>All Items:</h2></div>
+<div>
+    <img src=""
+
+</div>
+</body>
+
+
+
+
+
+
+
+</html>
